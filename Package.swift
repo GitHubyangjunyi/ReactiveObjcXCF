@@ -4,16 +4,16 @@
 import PackageDescription
 
 let package = Package(
-    name: "ReactiveObjcXCF",
+    name: "ReactiveObjc",
     products: [
         .library(
-            name: "ReactiveObjcXCF",
-            targets: ["ReactiveObjcXCF"]),
+            name: "ReactiveObjc",
+            targets: ["ReactiveObjc"]),
     ],
     dependencies: [],
     targets: [
         .binaryTarget(
-          name: "ReactiveObjcXCF",
+          name: "ReactiveObjc",
           path: "./Sources/ReactiveObjc.xcframework")
     ]
 )
