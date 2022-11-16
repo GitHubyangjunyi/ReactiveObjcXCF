@@ -194,7 +194,7 @@
 		</data>
 		<key>Headers/ReactiveObjC-Swift.h</key>
 		<data>
-		qxdhmjjIrA5JOFmZBJx+5cccTBs=
+		G7ycDKeR8Lh/u4R8kB0vPMc6g4A=
 		</data>
 		<key>Headers/ReactiveObjC.h</key>
 		<data>
@@ -206,83 +206,59 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Yv0bTP3kxGDSu0p2cWf3oLFglZA=
+		myPJAwGW7ANGWJRyjlnvQTsp5W0=
 		</data>
 		<key>Modules/ReactiveObjC.swiftmodule/Project/arm64-apple-watchos-simulator.swiftsourceinfo</key>
 		<data>
-		EebpiOST5oq0C61K1ixncQBJSmg=
-		</data>
-		<key>Modules/ReactiveObjC.swiftmodule/Project/arm64.swiftsourceinfo</key>
-		<data>
-		EebpiOST5oq0C61K1ixncQBJSmg=
+		j6+EuAarBOZbGn7MpQecw5aOzIc=
 		</data>
 		<key>Modules/ReactiveObjC.swiftmodule/Project/i386-apple-watchos-simulator.swiftsourceinfo</key>
 		<data>
-		mco5TdTFNi7q90lsK8QzMh+cOMo=
-		</data>
-		<key>Modules/ReactiveObjC.swiftmodule/Project/i386.swiftsourceinfo</key>
-		<data>
-		mco5TdTFNi7q90lsK8QzMh+cOMo=
+		5ybObSAsYk7G0XDP5BbnsfuL0ZI=
 		</data>
 		<key>Modules/ReactiveObjC.swiftmodule/Project/x86_64-apple-watchos-simulator.swiftsourceinfo</key>
 		<data>
-		2BymnOKdEvSqAd62V09ayQ3HvkM=
+		KHklqAkFs34Uv+y/j1Fjs83V/J4=
 		</data>
-		<key>Modules/ReactiveObjC.swiftmodule/Project/x86_64.swiftsourceinfo</key>
+		<key>Modules/ReactiveObjC.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
 		<data>
-		2BymnOKdEvSqAd62V09ayQ3HvkM=
+		FSPnLbho3G+LL9smI3XgVOqBIQ4=
 		</data>
 		<key>Modules/ReactiveObjC.swiftmodule/arm64-apple-watchos-simulator.swiftdoc</key>
 		<data>
-		ZkdKWYbyzSSHhdl0ye3kA7/KQ+k=
+		qRCFHHedqxWf1LEb9d1C7m/YGV4=
 		</data>
 		<key>Modules/ReactiveObjC.swiftmodule/arm64-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		ug9cOKMQuwCnvo3cEEOWOTT+rZ4=
+		FBxmQI0SFN+841HEM63+pxLWGTI=
 		</data>
-		<key>Modules/ReactiveObjC.swiftmodule/arm64.swiftdoc</key>
+		<key>Modules/ReactiveObjC.swiftmodule/i386-apple-watchos-simulator.abi.json</key>
 		<data>
-		ZkdKWYbyzSSHhdl0ye3kA7/KQ+k=
-		</data>
-		<key>Modules/ReactiveObjC.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		ug9cOKMQuwCnvo3cEEOWOTT+rZ4=
+		FSPnLbho3G+LL9smI3XgVOqBIQ4=
 		</data>
 		<key>Modules/ReactiveObjC.swiftmodule/i386-apple-watchos-simulator.swiftdoc</key>
 		<data>
-		3ZT365oCiUdG+NDjuj9NiJrFEJo=
+		pXKgDdI3pSzAFnw344YYwCr7LGs=
 		</data>
 		<key>Modules/ReactiveObjC.swiftmodule/i386-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		8j8yIi1PVYr19vgNpb43gwcWNnA=
+		uygvk3dAYXOKsbuX9DMFPExbq3s=
 		</data>
-		<key>Modules/ReactiveObjC.swiftmodule/i386.swiftdoc</key>
+		<key>Modules/ReactiveObjC.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
 		<data>
-		3ZT365oCiUdG+NDjuj9NiJrFEJo=
-		</data>
-		<key>Modules/ReactiveObjC.swiftmodule/i386.swiftmodule</key>
-		<data>
-		8j8yIi1PVYr19vgNpb43gwcWNnA=
+		FSPnLbho3G+LL9smI3XgVOqBIQ4=
 		</data>
 		<key>Modules/ReactiveObjC.swiftmodule/x86_64-apple-watchos-simulator.swiftdoc</key>
 		<data>
-		kJzx6sIjAiR1i8hT+OqFKWVEyjU=
+		SGdbj6FmoGczCxwaI40cMi7e84s=
 		</data>
 		<key>Modules/ReactiveObjC.swiftmodule/x86_64-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		EJZnNoU07Rv05H/a0G8pGoXV70o=
-		</data>
-		<key>Modules/ReactiveObjC.swiftmodule/x86_64.swiftdoc</key>
-		<data>
-		kJzx6sIjAiR1i8hT+OqFKWVEyjU=
-		</data>
-		<key>Modules/ReactiveObjC.swiftmodule/x86_64.swiftmodule</key>
-		<data>
-		EJZnNoU07Rv05H/a0G8pGoXV70o=
+		lLCw5KabPAkAaOsw5fDkJ4vebJw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		bX6tseWbp2SNu3+w6elHcKR/8Gc=
+		4Fr9xFWSY9PEoKd52rHQWlIvxTY=
 		</data>
 		<key>PrivateHeaders/EXTRuntimeExtensions.h</key>
 		<data>
@@ -812,11 +788,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qxdhmjjIrA5JOFmZBJx+5cccTBs=
+			G7ycDKeR8Lh/u4R8kB0vPMc6g4A=
 			</data>
 			<key>hash2</key>
 			<data>
-			XlXoxaW9P743L2ltgECHLhgGc+Nejx6x7g9T210g0NQ=
+			lxTE7Zm3226RE5DT2cyVh6Ngag8CW8SWP8P4kXqSwBI=
 			</data>
 		</dict>
 		<key>Headers/ReactiveObjC.h</key>
@@ -845,209 +821,143 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EebpiOST5oq0C61K1ixncQBJSmg=
+			j6+EuAarBOZbGn7MpQecw5aOzIc=
 			</data>
 			<key>hash2</key>
 			<data>
-			tNe9d94sDu1tcyMY0w/dPStr/bTrmzbleBqjCl1kdwM=
-			</data>
-		</dict>
-		<key>Modules/ReactiveObjC.swiftmodule/Project/arm64.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			EebpiOST5oq0C61K1ixncQBJSmg=
-			</data>
-			<key>hash2</key>
-			<data>
-			tNe9d94sDu1tcyMY0w/dPStr/bTrmzbleBqjCl1kdwM=
+			QdAhhGP84E+R2zx5AyPPrF0/mK9sqbGdrgHmnPP9o7c=
 			</data>
 		</dict>
 		<key>Modules/ReactiveObjC.swiftmodule/Project/i386-apple-watchos-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mco5TdTFNi7q90lsK8QzMh+cOMo=
+			5ybObSAsYk7G0XDP5BbnsfuL0ZI=
 			</data>
 			<key>hash2</key>
 			<data>
-			YNauPFWELf+WszJBxgBoCNenDMQAAtdl3K5/BMsDIco=
-			</data>
-		</dict>
-		<key>Modules/ReactiveObjC.swiftmodule/Project/i386.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			mco5TdTFNi7q90lsK8QzMh+cOMo=
-			</data>
-			<key>hash2</key>
-			<data>
-			YNauPFWELf+WszJBxgBoCNenDMQAAtdl3K5/BMsDIco=
+			DUZGjKuFyQWzeDRCXy024wDOlEsGK+sv/QzxjJH+M5s=
 			</data>
 		</dict>
 		<key>Modules/ReactiveObjC.swiftmodule/Project/x86_64-apple-watchos-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2BymnOKdEvSqAd62V09ayQ3HvkM=
+			KHklqAkFs34Uv+y/j1Fjs83V/J4=
 			</data>
 			<key>hash2</key>
 			<data>
-			zd2KmEPS5DAreu2+4KBdEP2+Fnas3r8oeB/W4h6R8tI=
+			7HuE26ZWF4fd0RsqbfCuopOtOwleeS/u2A2qn3YmbUU=
 			</data>
 		</dict>
-		<key>Modules/ReactiveObjC.swiftmodule/Project/x86_64.swiftsourceinfo</key>
+		<key>Modules/ReactiveObjC.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2BymnOKdEvSqAd62V09ayQ3HvkM=
+			FSPnLbho3G+LL9smI3XgVOqBIQ4=
 			</data>
 			<key>hash2</key>
 			<data>
-			zd2KmEPS5DAreu2+4KBdEP2+Fnas3r8oeB/W4h6R8tI=
+			KnRdWE4y6t4QM5zi5JDptPdHFgJy1Tku+7GLkZS2aNM=
 			</data>
 		</dict>
 		<key>Modules/ReactiveObjC.swiftmodule/arm64-apple-watchos-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZkdKWYbyzSSHhdl0ye3kA7/KQ+k=
+			qRCFHHedqxWf1LEb9d1C7m/YGV4=
 			</data>
 			<key>hash2</key>
 			<data>
-			cSVUvbOBrqR1XVg215Lhhm8qf+jS8zozTm/IUzHs9ro=
+			zqgI7RcjrLi8Sg9W5UxZxDpbsZWbYR20TwcP+UGBO0Y=
 			</data>
 		</dict>
 		<key>Modules/ReactiveObjC.swiftmodule/arm64-apple-watchos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ug9cOKMQuwCnvo3cEEOWOTT+rZ4=
+			FBxmQI0SFN+841HEM63+pxLWGTI=
 			</data>
 			<key>hash2</key>
 			<data>
-			EuPr69ukXQ8qH/RMoFZXqAMjwnztcQs9pFGEhGmZpHA=
+			0MTExWq+URtbPx//vMCtRDsZ5DRXt/xzIhV71iW0jTg=
 			</data>
 		</dict>
-		<key>Modules/ReactiveObjC.swiftmodule/arm64.swiftdoc</key>
+		<key>Modules/ReactiveObjC.swiftmodule/i386-apple-watchos-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZkdKWYbyzSSHhdl0ye3kA7/KQ+k=
+			FSPnLbho3G+LL9smI3XgVOqBIQ4=
 			</data>
 			<key>hash2</key>
 			<data>
-			cSVUvbOBrqR1XVg215Lhhm8qf+jS8zozTm/IUzHs9ro=
-			</data>
-		</dict>
-		<key>Modules/ReactiveObjC.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ug9cOKMQuwCnvo3cEEOWOTT+rZ4=
-			</data>
-			<key>hash2</key>
-			<data>
-			EuPr69ukXQ8qH/RMoFZXqAMjwnztcQs9pFGEhGmZpHA=
+			KnRdWE4y6t4QM5zi5JDptPdHFgJy1Tku+7GLkZS2aNM=
 			</data>
 		</dict>
 		<key>Modules/ReactiveObjC.swiftmodule/i386-apple-watchos-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3ZT365oCiUdG+NDjuj9NiJrFEJo=
+			pXKgDdI3pSzAFnw344YYwCr7LGs=
 			</data>
 			<key>hash2</key>
 			<data>
-			TxHxY/jlLA1GdlUpllEeXzX0vulp9ZRb8k9RI92tFgA=
+			by4cPtSD9syLV96yjYZrJbp22IClL3BMrJPOP/cFshQ=
 			</data>
 		</dict>
 		<key>Modules/ReactiveObjC.swiftmodule/i386-apple-watchos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8j8yIi1PVYr19vgNpb43gwcWNnA=
+			uygvk3dAYXOKsbuX9DMFPExbq3s=
 			</data>
 			<key>hash2</key>
 			<data>
-			WrVPA5mT/HyHeMsy6/NnFk6x4EH8Fcy9CTaDa19AG6Q=
+			maQQ6MmkBbgnAvXq1b6UcySOoTVSrqJ59E9qRLFQBxc=
 			</data>
 		</dict>
-		<key>Modules/ReactiveObjC.swiftmodule/i386.swiftdoc</key>
+		<key>Modules/ReactiveObjC.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3ZT365oCiUdG+NDjuj9NiJrFEJo=
+			FSPnLbho3G+LL9smI3XgVOqBIQ4=
 			</data>
 			<key>hash2</key>
 			<data>
-			TxHxY/jlLA1GdlUpllEeXzX0vulp9ZRb8k9RI92tFgA=
-			</data>
-		</dict>
-		<key>Modules/ReactiveObjC.swiftmodule/i386.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			8j8yIi1PVYr19vgNpb43gwcWNnA=
-			</data>
-			<key>hash2</key>
-			<data>
-			WrVPA5mT/HyHeMsy6/NnFk6x4EH8Fcy9CTaDa19AG6Q=
+			KnRdWE4y6t4QM5zi5JDptPdHFgJy1Tku+7GLkZS2aNM=
 			</data>
 		</dict>
 		<key>Modules/ReactiveObjC.swiftmodule/x86_64-apple-watchos-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			kJzx6sIjAiR1i8hT+OqFKWVEyjU=
+			SGdbj6FmoGczCxwaI40cMi7e84s=
 			</data>
 			<key>hash2</key>
 			<data>
-			OC5GApDQSF4taI72YJ4U8AypGUnnLcFgq8TCus85Scw=
+			fSn1okFV7tkUPz+8SCcIG0LtJk523r2HmeAMM10Qggk=
 			</data>
 		</dict>
 		<key>Modules/ReactiveObjC.swiftmodule/x86_64-apple-watchos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EJZnNoU07Rv05H/a0G8pGoXV70o=
+			lLCw5KabPAkAaOsw5fDkJ4vebJw=
 			</data>
 			<key>hash2</key>
 			<data>
-			+Mi/BuHZMoAdyNesg20kl6fMdo/ibPwrsqLx+AYyMsc=
-			</data>
-		</dict>
-		<key>Modules/ReactiveObjC.swiftmodule/x86_64.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			kJzx6sIjAiR1i8hT+OqFKWVEyjU=
-			</data>
-			<key>hash2</key>
-			<data>
-			OC5GApDQSF4taI72YJ4U8AypGUnnLcFgq8TCus85Scw=
-			</data>
-		</dict>
-		<key>Modules/ReactiveObjC.swiftmodule/x86_64.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			EJZnNoU07Rv05H/a0G8pGoXV70o=
-			</data>
-			<key>hash2</key>
-			<data>
-			+Mi/BuHZMoAdyNesg20kl6fMdo/ibPwrsqLx+AYyMsc=
+			d9L0S+HlYDSu8KDcv3W5bSvEZ9or2GGuL0ZmaGx6/eA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bX6tseWbp2SNu3+w6elHcKR/8Gc=
+			4Fr9xFWSY9PEoKd52rHQWlIvxTY=
 			</data>
 			<key>hash2</key>
 			<data>
-			v7uUmScGf6GlkQsvE1JgYu8JcILV7IjGyHMcjT4mNRg=
+			9OkTu+oV2KyCyoHE4dwoFPObquI84ugaddb/VlDJHOY=
 			</data>
 		</dict>
 		<key>PrivateHeaders/EXTRuntimeExtensions.h</key>

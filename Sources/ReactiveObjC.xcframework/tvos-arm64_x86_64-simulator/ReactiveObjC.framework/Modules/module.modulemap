@@ -6,6 +6,6 @@ framework module ReactiveObjC {
 }
 
 module ReactiveObjC.Swift {
-    header "ReactiveObjC-Swift.h"
-    requires objc
+  header "ReactiveObjC-Swift.h"
+  requires objc
 }

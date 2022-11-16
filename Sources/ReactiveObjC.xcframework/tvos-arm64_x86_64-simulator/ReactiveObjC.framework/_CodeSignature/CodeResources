@@ -194,7 +194,7 @@
 		</data>
 		<key>Headers/ReactiveObjC-Swift.h</key>
 		<data>
-		vHW6X9D6HUjStkpKAuEx9c5/4/U=
+		gXvKnv5nvxRniSaWI1vt/5WJUw0=
 		</data>
 		<key>Headers/ReactiveObjC.h</key>
 		<data>
@@ -246,59 +246,43 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		4STAJDBxep9y83NSb2Hh7FrsQDw=
+		pRwlkN94HR1vhvFIMHFw30XrNVc=
 		</data>
 		<key>Modules/ReactiveObjC.swiftmodule/Project/arm64-apple-tvos-simulator.swiftsourceinfo</key>
 		<data>
-		NztQSDRQD3903exHYBEzzNJrdAI=
-		</data>
-		<key>Modules/ReactiveObjC.swiftmodule/Project/arm64.swiftsourceinfo</key>
-		<data>
-		NztQSDRQD3903exHYBEzzNJrdAI=
+		+R9nGUI4mZ3oxoQoEIwTgG+YqiM=
 		</data>
 		<key>Modules/ReactiveObjC.swiftmodule/Project/x86_64-apple-tvos-simulator.swiftsourceinfo</key>
 		<data>
-		w0t0yB7YcElY1RCXegajKaYbg3E=
+		nGpUFYoeSP1mpwBvPNpR/yRpi9Q=
 		</data>
-		<key>Modules/ReactiveObjC.swiftmodule/Project/x86_64.swiftsourceinfo</key>
+		<key>Modules/ReactiveObjC.swiftmodule/arm64-apple-tvos-simulator.abi.json</key>
 		<data>
-		w0t0yB7YcElY1RCXegajKaYbg3E=
+		FSPnLbho3G+LL9smI3XgVOqBIQ4=
 		</data>
 		<key>Modules/ReactiveObjC.swiftmodule/arm64-apple-tvos-simulator.swiftdoc</key>
 		<data>
-		SGDg5F/RCj5zPbB4nBOnoRPcOpE=
+		G26XYFqdAQ11tid66HZlLS+dMd4=
 		</data>
 		<key>Modules/ReactiveObjC.swiftmodule/arm64-apple-tvos-simulator.swiftmodule</key>
 		<data>
-		oZwqXcpSZtlAotpPbEYKlVmfesg=
+		To/XpYLqXCspMmqe5cLGxQp2/qI=
 		</data>
-		<key>Modules/ReactiveObjC.swiftmodule/arm64.swiftdoc</key>
+		<key>Modules/ReactiveObjC.swiftmodule/x86_64-apple-tvos-simulator.abi.json</key>
 		<data>
-		SGDg5F/RCj5zPbB4nBOnoRPcOpE=
-		</data>
-		<key>Modules/ReactiveObjC.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		oZwqXcpSZtlAotpPbEYKlVmfesg=
+		FSPnLbho3G+LL9smI3XgVOqBIQ4=
 		</data>
 		<key>Modules/ReactiveObjC.swiftmodule/x86_64-apple-tvos-simulator.swiftdoc</key>
 		<data>
-		JmcKhGZOBf9yxShi1lhCtGoA8UA=
+		mn6OWpU/cT0fonnc9ne2BVhdevA=
 		</data>
 		<key>Modules/ReactiveObjC.swiftmodule/x86_64-apple-tvos-simulator.swiftmodule</key>
 		<data>
-		MDqBp8J8/DxHCGADNx5irq8wg4Y=
-		</data>
-		<key>Modules/ReactiveObjC.swiftmodule/x86_64.swiftdoc</key>
-		<data>
-		JmcKhGZOBf9yxShi1lhCtGoA8UA=
-		</data>
-		<key>Modules/ReactiveObjC.swiftmodule/x86_64.swiftmodule</key>
-		<data>
-		MDqBp8J8/DxHCGADNx5irq8wg4Y=
+		6b6QL9m9L+WqhWEG73SsZwGNVkM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		bX6tseWbp2SNu3+w6elHcKR/8Gc=
+		4Fr9xFWSY9PEoKd52rHQWlIvxTY=
 		</data>
 		<key>PrivateHeaders/EXTRuntimeExtensions.h</key>
 		<data>
@@ -828,11 +812,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vHW6X9D6HUjStkpKAuEx9c5/4/U=
+			gXvKnv5nvxRniSaWI1vt/5WJUw0=
 			</data>
 			<key>hash2</key>
 			<data>
-			CqxmdKlpiqVhjdGrtWOb3E+v9vjSKn2eOJum9uniFos=
+			it/MWMWueJxeTK3R9K8Oy+MN3q0lB5LLn5u/gYl0Jrc=
 			</data>
 		</dict>
 		<key>Headers/ReactiveObjC.h</key>
@@ -971,143 +955,99 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NztQSDRQD3903exHYBEzzNJrdAI=
+			+R9nGUI4mZ3oxoQoEIwTgG+YqiM=
 			</data>
 			<key>hash2</key>
 			<data>
-			7bD6w8vnmyqeobZdgVqqpYTXu4Wb38Zy7+cD2lqEN7s=
-			</data>
-		</dict>
-		<key>Modules/ReactiveObjC.swiftmodule/Project/arm64.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			NztQSDRQD3903exHYBEzzNJrdAI=
-			</data>
-			<key>hash2</key>
-			<data>
-			7bD6w8vnmyqeobZdgVqqpYTXu4Wb38Zy7+cD2lqEN7s=
+			HOCmkZxnxF6U68uneTrA+8HNkxprzOM9/tTZ7Ah1ins=
 			</data>
 		</dict>
 		<key>Modules/ReactiveObjC.swiftmodule/Project/x86_64-apple-tvos-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			w0t0yB7YcElY1RCXegajKaYbg3E=
+			nGpUFYoeSP1mpwBvPNpR/yRpi9Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			fuI9a9uS698lqxQDaZ6oQtUkrunu0hQHY3ho+ls/MIc=
+			S4ZANjYg0v6rMcf0X2JpBzZC5tQqwOii2neWSChQVsc=
 			</data>
 		</dict>
-		<key>Modules/ReactiveObjC.swiftmodule/Project/x86_64.swiftsourceinfo</key>
+		<key>Modules/ReactiveObjC.swiftmodule/arm64-apple-tvos-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			w0t0yB7YcElY1RCXegajKaYbg3E=
+			FSPnLbho3G+LL9smI3XgVOqBIQ4=
 			</data>
 			<key>hash2</key>
 			<data>
-			fuI9a9uS698lqxQDaZ6oQtUkrunu0hQHY3ho+ls/MIc=
+			KnRdWE4y6t4QM5zi5JDptPdHFgJy1Tku+7GLkZS2aNM=
 			</data>
 		</dict>
 		<key>Modules/ReactiveObjC.swiftmodule/arm64-apple-tvos-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			SGDg5F/RCj5zPbB4nBOnoRPcOpE=
+			G26XYFqdAQ11tid66HZlLS+dMd4=
 			</data>
 			<key>hash2</key>
 			<data>
-			sChOw2pKjkA8DtQsuYw2AdDsa4bEpaZJ/TYvzZ8Lgd8=
+			fTOiqMBEIeiAnYTT1hPwHuNkFluHnNYd4LI1loCbM64=
 			</data>
 		</dict>
 		<key>Modules/ReactiveObjC.swiftmodule/arm64-apple-tvos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oZwqXcpSZtlAotpPbEYKlVmfesg=
+			To/XpYLqXCspMmqe5cLGxQp2/qI=
 			</data>
 			<key>hash2</key>
 			<data>
-			JKG3IOLZHdoHIkM+s66VWTGdvp+eP/AtHGS9n3lsuH4=
+			5cj+/Pm/rhi1UA3GsUuKCWU+1T7Vi6WOLSKIMAe9izU=
 			</data>
 		</dict>
-		<key>Modules/ReactiveObjC.swiftmodule/arm64.swiftdoc</key>
+		<key>Modules/ReactiveObjC.swiftmodule/x86_64-apple-tvos-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			SGDg5F/RCj5zPbB4nBOnoRPcOpE=
+			FSPnLbho3G+LL9smI3XgVOqBIQ4=
 			</data>
 			<key>hash2</key>
 			<data>
-			sChOw2pKjkA8DtQsuYw2AdDsa4bEpaZJ/TYvzZ8Lgd8=
-			</data>
-		</dict>
-		<key>Modules/ReactiveObjC.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			oZwqXcpSZtlAotpPbEYKlVmfesg=
-			</data>
-			<key>hash2</key>
-			<data>
-			JKG3IOLZHdoHIkM+s66VWTGdvp+eP/AtHGS9n3lsuH4=
+			KnRdWE4y6t4QM5zi5JDptPdHFgJy1Tku+7GLkZS2aNM=
 			</data>
 		</dict>
 		<key>Modules/ReactiveObjC.swiftmodule/x86_64-apple-tvos-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			JmcKhGZOBf9yxShi1lhCtGoA8UA=
+			mn6OWpU/cT0fonnc9ne2BVhdevA=
 			</data>
 			<key>hash2</key>
 			<data>
-			1p3OI7O24HVeEB/bPfjyU8fRYwxBWTMM5qJoCi9+LvY=
+			u6nCPy+1aa+Lj30VdSAvFh7zdUeWjoHVztipaTsJe/4=
 			</data>
 		</dict>
 		<key>Modules/ReactiveObjC.swiftmodule/x86_64-apple-tvos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MDqBp8J8/DxHCGADNx5irq8wg4Y=
+			6b6QL9m9L+WqhWEG73SsZwGNVkM=
 			</data>
 			<key>hash2</key>
 			<data>
-			NDGWUNrEPzS+7lwWQ11FWIXN1yBx9VAsAN5/1JIgiGY=
-			</data>
-		</dict>
-		<key>Modules/ReactiveObjC.swiftmodule/x86_64.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			JmcKhGZOBf9yxShi1lhCtGoA8UA=
-			</data>
-			<key>hash2</key>
-			<data>
-			1p3OI7O24HVeEB/bPfjyU8fRYwxBWTMM5qJoCi9+LvY=
-			</data>
-		</dict>
-		<key>Modules/ReactiveObjC.swiftmodule/x86_64.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			MDqBp8J8/DxHCGADNx5irq8wg4Y=
-			</data>
-			<key>hash2</key>
-			<data>
-			NDGWUNrEPzS+7lwWQ11FWIXN1yBx9VAsAN5/1JIgiGY=
+			GRNrkKbD5g2peWzJwyNXsOUjD+PPiPi5UNjLDNroGiw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bX6tseWbp2SNu3+w6elHcKR/8Gc=
+			4Fr9xFWSY9PEoKd52rHQWlIvxTY=
 			</data>
 			<key>hash2</key>
 			<data>
-			v7uUmScGf6GlkQsvE1JgYu8JcILV7IjGyHMcjT4mNRg=
+			9OkTu+oV2KyCyoHE4dwoFPObquI84ugaddb/VlDJHOY=
 			</data>
 		</dict>
 		<key>PrivateHeaders/EXTRuntimeExtensions.h</key>
